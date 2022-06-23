@@ -4,7 +4,6 @@ Hi 👋 My name is Ila Esmaeili
 * 🌍  I'm based in Vancouver, Canada
 * 🖥️  See my portfolio at [ilaesm.com](http://ilaesm.com)
 * ✉️  You can contact me at [ilaesm2006@gmail.com](mailto:ilaesm2006@gmail.com)
-* 🚀  I'm currently working on [Something...](http://something)
 
 ### Skills
 
