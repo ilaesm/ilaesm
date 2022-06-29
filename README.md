@@ -1,4 +1,4 @@
-Hi 👋 My name is Ila Esmaeili
+Hi
 =============================
 
 * 🌍  I'm based in Vancouver, Canada
